@@ -1,0 +1,10 @@
+img{
+    margin-top: 20em;
+}
+.box{
+    border:2px solid black;
+    height:20em;
+    width:30%;
+    margin-left:60%;
+    margin-right: 20%;
+}
